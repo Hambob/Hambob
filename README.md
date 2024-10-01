@@ -1,27 +1,27 @@
-<h1>Hello World I am Hamzah Abokreen</h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+# Hi there, I'm Hamzah M. Abokreen 👋
 
-- 👋 Hi, I’m FullStack Web Developer
-- 👀 I’m interested in CyberSecurity and programming
-- 🌱 I’m currently learning Blockchain
-<!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me ...
-<div id="badges">
-  <a href="https://www.linkedin.com/in/hamzah-abokreen/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.facebook.com/hamzah.abokreen" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/hambob5hambob" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-</br>
-</br>
-### :hammer_and_wrench: Languages and Tools :
+🌱 I’m passionate about building scalable, user-friendly applications. <br>
+💻 I specialize in **React.js**, **React Native**, **TypeScript**, **JavaScript**, and **Express.js**. <br>
+🌍 I'm open to **remote opportunities** in global markets. <br>
+👨‍💻 Check out my portfolio: [www.abokreen.ly] <br>
+📫 You can reach me at: [h.abokreen@gmail.com] <br>
+
+## 🚀 About Me
+
+I am a **Software Engineer** with a background in **Mobile & Web Development**. I love creating impactful solutions that help businesses and users alike. I’ve worked on a variety of projects, including **food delivery systems**, **e-commerce platforms**, and **mobile applications**. My focus is always on creating intuitive user experiences with efficient backend architectures.
+
+### Recent Projects:
+- **[iDelivery](https://apps.apple.com/kw/app/idelivery-food-delivery/id6474788707)**: it's a food delivery system that contains three mobile apps [for client, for driver, for restaurant manager] and a web dashboard.
+- **[Cloud Kitchen](https://drive.google.com/file/d/19gicOAwXasdbCTw-F2-4gxw9dhT-BBpR/view?usp=drive_link)**: An integrated platform connecting customers with home-based producers and catering companies. Includes a mobile app and an admin dashboard for order management.
+
+I’ve worked with various companies and organizations like **Moomken Org**, **Sahaba Company**, and **ZiLab Company**, where I contributed to diverse projects in both mobile and web development.
+
+## 🛠 Tech Stack
+
+- **Frontend**: React.js, React Native, Expo, Tailwind CSS, Material-UI, Figma
+- **Backend**: Express.js, Node.js, TypeORM, MySQL
+- **Tools**: Git, Docker, Firebase, Heroku, AWS, MS Azure
+- **Languages**: JavaScript, TypeScript, PHP,
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Expres.js" alt="Express.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -45,13 +45,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+## 📊 Notable Achievements
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hambob&theme=dark&background=000000)](https://git.io/streak-stats)
+- Developed and deployed the **iDelivery** system, which has over **1,000+ downloads** on both iOS and Android, handling more than **2,500 orders** and **3,000 driver requests**.
+- Delivered multiple workshops and talks, including for **Google Developer Student Club of Tripoli University**, **Tripoli International Fair**, and **Google Developer Student Club of Musratah University**, and **Google Developer Student Club of Sebratah University**.
+  
+## 🌐 Let's Connect
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hambob&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+- LinkedIn: [My Linkedin Account](https://www.linkedin.com/in/hamzah-abokreen/)
 
-<!---
-Hambob/Hambob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+⭐️ From [Hamzah](https://github.com/hambob)
